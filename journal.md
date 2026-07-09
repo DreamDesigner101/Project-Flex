@@ -1,5 +1,9 @@
 June 8/2026
 
+Estimated Completion:June 20/2026
+
+
+Project Flex:RIGHT HAND PROSTHETIC
 ---------------------------------------------------
 
 
