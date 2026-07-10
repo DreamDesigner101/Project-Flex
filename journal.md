@@ -17,6 +17,17 @@ Problems encountered: Measured my finger while flexed costed me time in fixing m
 
 <img width="4160" height="3120" alt="IMG_20260708_231924533" src="https://github.com/user-attachments/assets/4cb04571-d005-4ded-aae6-1426da2c0249" />
 
+--------------------------
+Day 2: RIght hand finger design Joint 1
+
+Duration: 1 hour and 20 minutes
+
+Activities completed: draw the design for Joint 1, and stated details.
+
+Problems encoutnered: Finger joints will be an extra 10mm ish per joint long due to inconsideration on join spaceage, which will impact total length.
+
+<img width="3120" height="4160" alt="IMG_20260709_231622826" src="https://github.com/user-attachments/assets/60acd7df-4160-40bd-96db-58178a3c23cf" />
+
 
 
 
