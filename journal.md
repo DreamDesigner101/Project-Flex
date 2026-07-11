@@ -28,6 +28,16 @@ Problems encoutnered: Finger joints will be an extra 10mm ish per joint long due
 
 <img width="3120" height="4160" alt="IMG_20260709_231622826" src="https://github.com/user-attachments/assets/60acd7df-4160-40bd-96db-58178a3c23cf" />
 
+-----------------------------
+Day 3: Right hand finger design Joint 2 and 3
+
+Duration 1.30 hours
+
+Activities completed: draw the design for Joint 2 and 3, and stated details
+
+Problems encountered: Finger joint hinges were too big, so I downsized it, making Day 2's problem statement solved a little bit.
+
+<img width="4160" height="3120" alt="IMG_20260710_225940102" src="https://github.com/user-attachments/assets/12e81f87-af9a-4871-abcf-7313ae7035a9" />
 
 
 
