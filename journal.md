@@ -50,6 +50,15 @@ Problems encountered: J2 thumb layout was wrong so I figured out that cutting a 
 
 <img width="169" height="206" alt="Screenshot 2026-07-12 12 31 08 AM" src="https://github.com/user-attachments/assets/48c270b9-8326-43b6-8a70-5da6598315da" />
 
+-------------------------------------
+Day 4: Right hand cad all fingers
+
+Duration:
+
+Activities completed: Completed all 5 fingers on cad
+
+Problems encoutnered: Due to the curvature of the back, I had to improvise, and instead off cutting a little section off on the back I decided to just shrink the hinge to the edge to 7.95mm instead of the 13mm, and make the length to the hole 5mm instead of 6.5mm.
+
 
 
 
