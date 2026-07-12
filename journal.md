@@ -39,6 +39,18 @@ Problems encountered: Finger joint hinges were too big, so I downsized it, makin
 
 <img width="4160" height="3120" alt="IMG_20260710_225940102" src="https://github.com/user-attachments/assets/12e81f87-af9a-4871-abcf-7313ae7035a9" />
 
+----------------------------------
+Day 4: Right hand cad Joint 1
+
+Duration: 1 hour
+
+Activities completed: Designed J1 of the thumb.
+
+Problems encountered: J2 thumb layout was wrong so I figured out that cutting a little section off on the back would help.
+
+<img width="169" height="206" alt="Screenshot 2026-07-12 12 31 08 AM" src="https://github.com/user-attachments/assets/48c270b9-8326-43b6-8a70-5da6598315da" />
+
+
 
 
 
