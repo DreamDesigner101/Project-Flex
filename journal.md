@@ -55,9 +55,10 @@ Day 4: Right hand cad all fingers
 
 Duration:
 
-Activities completed: Completed all 5 fingers on cad
+Activities completed: Completed thumb
 
-Problems encoutnered: Due to the curvature of the back, I had to improvise, and instead off cutting a little section off on the back I decided to just shrink the hinge to the edge to 7.95mm instead of the 13mm, and make the length to the hole 5mm instead of 6.5mm.
+Problems encoutnered: Due to the curvature of the back, I had to improvise, and instead off cutting a little section off on the back I decided to just shrink the hinge to the edge to 7.95mm instead of the 13mm, and make the length to the hole 5.5mm instead of 6.5mm.
+I also found out to make sure when filleting the edges of the hinge, make sure you do it on the flat side and not on the curved side. Also I decided to remove 3.5mm off the bottom to make it so that the hinge can achieve about a 90 degree bend.
 
 
 
