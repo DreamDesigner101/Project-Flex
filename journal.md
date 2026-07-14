@@ -65,6 +65,15 @@ I also found out to make sure when filleting the edges of the hinge, make sure y
 <img width="409" height="441" alt="Screenshot 2026-07-12 11 13 30 PM" src="https://github.com/user-attachments/assets/07073ce6-c0b4-46d1-bac6-1ba885bb1bba" />
 <img width="158" height="215" alt="Screenshot 2026-07-13 12 09 03 AM" src="https://github.com/user-attachments/assets/7270833e-c9d7-46a7-82ad-2e5adf907926" />
 
+-----------------------------------
+Day 5: Joints 3,4, and 5
+
+Duration:
+
+Activities completed: I completed all the joints(3,4,5)
+
+Problems encountered: instead of removing both sided by 4 mm i removed it by 5 do the hinge has more degree of freedom to move.
+
 
 
 
