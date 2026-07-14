@@ -66,13 +66,19 @@ I also found out to make sure when filleting the edges of the hinge, make sure y
 <img width="158" height="215" alt="Screenshot 2026-07-13 12 09 03 AM" src="https://github.com/user-attachments/assets/7270833e-c9d7-46a7-82ad-2e5adf907926" />
 
 -----------------------------------
-Day 5: Joints 3,4, and 5
+Day 5: Joints 3,4
 
-Duration:
+Duration: 1.50 hours
 
-Activities completed: I completed all the joints(3,4,5)
+Activities completed: I completed all the joints(3,4)
 
-Problems encountered: instead of removing both sided by 4 mm i removed it by 5 do the hinge has more degree of freedom to move.
+Problems encountered: instead of removing both sided by 4 mm i removed it by 5 do the hinge has more degree of freedom to move. For pinky I had to delete it all because for some weird reason the spacege between the hinges were so small compared to the others.
+Also I need to find a way to get strings attached, so tommorow make holes(curved)
+
+<img width="158" height="215" alt="Screenshot 2026-07-13 12 09 03 AM" src="https://github.com/user-attachments/assets/f1956141-3104-4008-976c-a7a497dc55c5" />
+<img width="534" height="245" alt="Screenshot 2026-07-13 12 32 08 PM" src="https://github.com/user-attachments/assets/f4a029a5-3cf7-41fb-9426-e86cdb1d354a" />
+<img width="202" height="301" alt="Screenshot 2026-07-13 10 42 45 PM" src="https://github.com/user-attachments/assets/0a19eb55-e941-41bc-a63a-c8e872188234" />
+
 
 
 
