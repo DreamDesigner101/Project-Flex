@@ -79,6 +79,33 @@ Also I need to find a way to get strings attached, so tommorow make holes(curved
 <img width="534" height="245" alt="Screenshot 2026-07-13 12 32 08 PM" src="https://github.com/user-attachments/assets/f4a029a5-3cf7-41fb-9426-e86cdb1d354a" />
 <img width="202" height="301" alt="Screenshot 2026-07-13 10 42 45 PM" src="https://github.com/user-attachments/assets/0a19eb55-e941-41bc-a63a-c8e872188234" />
 
+---------------------
+Day 6: Joint 5 and fixed missing parts
+
+Duration: 35 minutes
+
+Activites completed: Finished Joint 5 and also fixed the thumb and some others that had missing parts.
+
+Problems encountered: Found some missing parts to the cad.
+
+<img width="270" height="422" alt="Screenshot 2026-07-14 3 14 09 PM" src="https://github.com/user-attachments/assets/98da5e4a-f835-4fff-92ac-ab1cbb023210" />
+
+----------------------------
+Day 7: Holes for J1, J2, J3, J4, and 2/3 holes for J5.
+
+Duration: 2 hours and 20 minutes
+
+Activities completed: I made holes for my fingers for the line to go through.
+
+Problems encountered: I took a long time to figure out how to put holes at an angle, my original design was to have holes go through at curve, but I dont know how to do that.
+
+<img width="130" height="119" alt="Screenshot 2026-07-15 3 06 10 PM" src="https://github.com/user-attachments/assets/9d8bb229-ffa5-46a0-b98e-40c326369b58" />
+<img width="92" height="106" alt="Screenshot 2026-07-15 3 06 22 PM" src="https://github.com/user-attachments/assets/6ecfd958-d3b1-430e-ab57-5503b03654d8" />
+<img width="251" height="436" alt="Screenshot 2026-07-15 11 18 34 PM" src="https://github.com/user-attachments/assets/09c574f3-d511-434a-869a-b62f046e0c61" />
+<img width="3120" height="4160" alt="IMG_20260716_145537053" src="https://github.com/user-attachments/assets/f0a866c5-3b13-4ef2-aabf-87f566588e02" />
+
+
+
 
 
 
