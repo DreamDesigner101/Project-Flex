@@ -6,6 +6,16 @@ Estimated Completion:June 20/2026
 Project Flex:RIGHT HAND PROSTHETIC
 ---------------------------------------------------
 
+--------------------------------------
+Day :
+
+Duration:
+
+Activities completed:
+
+Problems encountered:
+
+------------------------------------------
 
 Day 1: Right hand finger measurement
 
@@ -103,6 +113,19 @@ Problems encountered: I took a long time to figure out how to put holes at an an
 <img width="92" height="106" alt="Screenshot 2026-07-15 3 06 22 PM" src="https://github.com/user-attachments/assets/6ecfd958-d3b1-430e-ab57-5503b03654d8" />
 <img width="251" height="436" alt="Screenshot 2026-07-15 11 18 34 PM" src="https://github.com/user-attachments/assets/09c574f3-d511-434a-869a-b62f046e0c61" />
 <img width="3120" height="4160" alt="IMG_20260716_145537053" src="https://github.com/user-attachments/assets/f0a866c5-3b13-4ef2-aabf-87f566588e02" />
+
+--------------------------------------
+Day 8: Hand design
+
+Duration: 35 minutes
+
+Activities completed: Started sketching out and measuring the base(palm)
+
+Problems encountered: I discovered that the palm collapses inwards(for example when you make a fist), so that means the top half of the hand has to bend, so I will have to make a fourth joint for each finger that corresponds to the height from each other respectively(middle finger is positioned the highest, while the thumb is positioned the lowest).
+
+<img width="3120" height="4160" alt="IMG_20260716_145537053" src="https://github.com/user-attachments/assets/6d521364-b9f1-430b-bfe4-c2f8dc93cfd0" />
+
+-------------------------------------------
 
 
 
