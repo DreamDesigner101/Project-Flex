@@ -126,6 +126,19 @@ Problems encountered: I discovered that the palm collapses inwards(for example w
 <img width="3120" height="4160" alt="IMG_20260716_145537053" src="https://github.com/user-attachments/assets/6d521364-b9f1-430b-bfe4-c2f8dc93cfd0" />
 
 -------------------------------------------
+Day 9:Hand Design
+
+Duration: 1 hour
+
+Activities completed: I measured my fingers, found the ratio between the lengths, and sketched it out. I also did some brain dumping on paper.(dont forget for day 10 the width of the hand should be 7.595+3-5 mm more, to take into consideration for the slope. &,595 is the width of the finger connector(same value as the hinge))
+
+Problems encountered: I found out that the 4 joint idea from day 8 would not work and is, in theory, not true, because even though the whole palm bends, it breaks the basic principles of the 3 joint per finger of the hand. I found out that when designing the hand, making it slanted so that the finger can fully bend all the way achieves the same goal. I also discovered that when sketching out the finger connector, I made it so that they would be the same concept as the fingers itself, but I made a really big mistake. Try to find it! It is on the side view. 
+
+<img width="3120" height="4160" alt="IMG_20260717_230310626" src="https://github.com/user-attachments/assets/465857f3-d28b-463f-91d2-f15ad731fd11" />
+<img width="4160" height="3120" alt="IMG_20260717_232008846" src="https://github.com/user-attachments/assets/c722854d-bd73-43f9-bad1-dd392dd97c2c" />
+<img width="3120" height="4160" alt="IMG_20260717_232331007" src="https://github.com/user-attachments/assets/780f8cf1-fa8f-4207-813b-6169a9480619" />
+
+---------------------------------------
 
 
 
