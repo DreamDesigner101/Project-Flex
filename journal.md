@@ -140,6 +140,26 @@ Problems encountered: I found out that the 4 joint idea from day 8 would not wor
 
 ---------------------------------------
 
+Day :14
+
+Duration:10 minutes
+
+Activities completed: hand design
+
+Problems encountered: a lot of measurements and having to process the info in my head.
+
+<img width="3120" height="4160" alt="IMG_20260722_143722593" src="https://github.com/user-attachments/assets/be4d5232-b194-48b5-b1f3-8e0322598f94" />
+
+-----------------------------------------
+
+Day : 15
+
+Duration:
+
+Activities completed:
+
+Problems encountered:
+
 
 
 
