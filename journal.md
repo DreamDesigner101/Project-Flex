@@ -5,7 +5,7 @@ Estimated Completion:June 20/2026
 
 Project Flex:RIGHT HAND PROSTHETIC
 ---------------------------------------------------
-
+FORMAT:
 --------------------------------------
 Day :
 
@@ -154,11 +154,24 @@ Problems encountered: a lot of measurements and having to process the info in my
 
 Day : 15
 
+Duration: 40 minutes
+
+Activities completed: hand design
+
+Problems encountered: Measurents, new hand thumb 4th joint design.
+
+<img width="4160" height="3120" alt="IMG_20260723_141431064" src="https://github.com/user-attachments/assets/41555d2d-d5fc-48cf-a00c-3cfe1ceec748" />
+
+--------------------------------------------------
+Day : 16
+
 Duration:
 
-Activities completed:
+Activities completed: Hand design and then moved it to a cleaner sheet for measuremnt display.
 
-Problems encountered:
+Problems encountered: I had to find the lenght of a sloped edge, so I used the pythagorean theorem to find it out.
+
+
 
 
 
