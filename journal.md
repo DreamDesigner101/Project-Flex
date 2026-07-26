@@ -165,11 +165,52 @@ Problems encountered: Measurents, new hand thumb 4th joint design.
 --------------------------------------------------
 Day : 16
 
-Duration:
+Duration: 1 hour 10 minutes
 
 Activities completed: Hand design and then moved it to a cleaner sheet for measuremnt display.
 
 Problems encountered: I had to find the lenght of a sloped edge, so I used the pythagorean theorem to find it out.
+
+<img width="3120" height="4160" alt="IMG_20260723_151906768" src="https://github.com/user-attachments/assets/a808e6fb-c851-4989-85e2-a6186743ac3f" />
+
+
+--------------------------------------------
+Day : 17
+
+Duration: 35 minutes
+
+Activities completed: top portion blueprint + bottom blueprint
+
+Problems encountered: taking old sketch and drawing it as a blueprint
+
+<img width="4160" height="3120" alt="IMG_20260724_151049843" src="https://github.com/user-attachments/assets/409586cc-f649-4c56-8ccc-c601b78e1f5a" />
+
+
+----------------------------------------------------------
+Day : 18
+
+Duration: 45 minutes
+
+Activities completed: top thumb blueprint + side blueprint
+
+Problems encountered: I had figure out how to align the holes for the thumb part
+
+<img width="3120" height="4160" alt="IMG_20260725_155340375" src="https://github.com/user-attachments/assets/0994bb05-5d8d-45ea-9b15-4ad9475ca29d" />
+
+
+--------------------------------------------------------------
+Day : 19
+
+Duration: 30 minutes
+
+Activities completed: front thumb + bottom blueprint
+
+Problems encountered: I realized I had to change some measurements of the inner thumb
+
+<img width="3120" height="4160" alt="IMG_20260726_000810519" src="https://github.com/user-attachments/assets/e0c9d78a-f87e-4475-98da-f6e57706f891" />
+
+
+--------------------------------------------------------------
 
 
 
