@@ -225,6 +225,19 @@ Problems encountered: the last thumb is 14.99 mm in length because our lengths w
 <img width="338" height="341" alt="Screenshot 2026-07-28 10 49 20 PM" src="https://github.com/user-attachments/assets/ac0a05ae-6224-415f-ba82-b772763240df" />
 
 ------------------------------------------------------------
+Day : 21
+
+Duration: 25 minutes
+
+Activities completed: cad hand base
+
+Problems encountered: I noticed that a lot of the info that I filled out was wrong, and that for the thumb the measurements were too big, so it will have to be scaled down.
+
+<img width="141" height="313" alt="Screenshot 2026-07-28 10 49 02 PM" src="https://github.com/user-attachments/assets/891346a0-635e-4b78-a209-aa1ed5a01bfc" />
+<img width="302" height="112" alt="Screenshot 2026-07-28 11 21 44 PM" src="https://github.com/user-attachments/assets/c99ebe89-a4b6-4483-9f1e-580b3c0bd4c1" />
+<img width="349" height="125" alt="Screenshot 2026-07-28 11 21 55 PM" src="https://github.com/user-attachments/assets/15a629b9-0c5d-4763-8974-ac9422889775" />
+
+-----------------------------------------------
 
 
 
