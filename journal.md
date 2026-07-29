@@ -211,6 +211,21 @@ Problems encountered: I realized I had to change some measurements of the inner 
 
 
 --------------------------------------------------------------
+Day : 20
+
+Duration: 50 minutes
+
+Activities completed: cad base model
+
+Problems encountered: the last thumb is 14.99 mm in length because our lengths were unproportionate.
+
+<img width="263" height="71" alt="Screenshot 2026-07-27 12 25 11 PM" src="https://github.com/user-attachments/assets/5c9e895a-640e-4fe0-bac8-ca8458583a14" />
+<img width="307" height="322" alt="Screenshot 2026-07-28 10 48 52 PM" src="https://github.com/user-attachments/assets/3eb3fede-4621-41fa-a06e-f76fac5b92d4" />
+<img width="141" height="313" alt="Screenshot 2026-07-28 10 49 02 PM" src="https://github.com/user-attachments/assets/247ab311-8ed4-4cf2-999b-5c2b742a511e" />
+<img width="338" height="341" alt="Screenshot 2026-07-28 10 49 20 PM" src="https://github.com/user-attachments/assets/ac0a05ae-6224-415f-ba82-b772763240df" />
+
+------------------------------------------------------------
+
 
 
 
