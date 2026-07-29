@@ -239,6 +239,18 @@ Problems encountered: I noticed that a lot of the info that I filled out was wro
 
 -----------------------------------------------
 
+Day :22
+
+Duration:50 minutes
+
+Activities completed: cad thumbs
+
+Problems encountered: some thumb measurements had to be altered
+
+<img width="134" height="170" alt="Screenshot 2026-07-29 3 38 02 PM" src="https://github.com/user-attachments/assets/837e98f7-84be-4ce3-98e4-485b331cfe7a" />
+<img width="323" height="308" alt="Screenshot 2026-07-29 3 11 47 PM" src="https://github.com/user-attachments/assets/add9b6c3-c9a7-4e06-a1f2-3559e5383fa8" />
+<img width="308" height="308" alt="Screenshot 2026-07-29 3 14 39 PM" src="https://github.com/user-attachments/assets/f552cce3-d165-495f-8f0f-5f86c1106b27" />
+
 
 
 
