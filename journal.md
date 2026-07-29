@@ -217,7 +217,7 @@ Duration: 50 minutes
 
 Activities completed: cad base model
 
-Problems encountered: the last thumb is 14.99 mm in length because our lengths were unproportionate.
+Problems encountered: the last thumb is 14.99 mm in length because our lengths were  not proportionate. Also I had  some problems with filleting the sides, so instead of using "width", set fillet to radius mode instead.
 
 <img width="263" height="71" alt="Screenshot 2026-07-27 12 25 11 PM" src="https://github.com/user-attachments/assets/5c9e895a-640e-4fe0-bac8-ca8458583a14" />
 <img width="307" height="322" alt="Screenshot 2026-07-28 10 48 52 PM" src="https://github.com/user-attachments/assets/3eb3fede-4621-41fa-a06e-f76fac5b92d4" />
