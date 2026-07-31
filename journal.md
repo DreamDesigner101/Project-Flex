@@ -251,6 +251,22 @@ Problems encountered: some thumb measurements had to be altered
 <img width="323" height="308" alt="Screenshot 2026-07-29 3 11 47 PM" src="https://github.com/user-attachments/assets/add9b6c3-c9a7-4e06-a1f2-3559e5383fa8" />
 <img width="308" height="308" alt="Screenshot 2026-07-29 3 14 39 PM" src="https://github.com/user-attachments/assets/f552cce3-d165-495f-8f0f-5f86c1106b27" />
 
+-------------------------------------------------------------
+Day : 23
+
+Duration: 30 minutes
+
+Activities completed: cad thumb(inner)
+
+Problems encountered: I noticed that the exit points for the inner thumb were too close together, resulting in which if the back string is pulled, the thumb wouldn't go back to its normal position because its exit point crossed the point of balance, thus I moved the point of entry to 3mm both sides. I also noticed that whenever I tried to use the mate connector feature to create the exit points between the sketch points, it would make the holes horizontal, which I need to fix.
+
+<img width="428" height="380" alt="Screenshot 2026-07-30 11 52 41 PM" src="https://github.com/user-attachments/assets/179e88d7-752f-408d-8634-fb92c41bfb69" />
+<img width="611" height="265" alt="Screenshot 2026-07-30 11 55 56 PM" src="https://github.com/user-attachments/assets/075abc32-eaff-43fb-86bf-bf77d80e7b8f" />
+<img width="369" height="339" alt="Screenshot 2026-07-30 11 57 30 PM" src="https://github.com/user-attachments/assets/0f80b891-d08e-4f8a-bc7b-d5685a219639" />
+<img width="86" height="83" alt="Screenshot 2026-07-31 12 05 06 AM" src="https://github.com/user-attachments/assets/27dc3ef8-4bcb-495d-9a68-2f8f080200b9" />
+
+--------------------------------------------------
+
 
 
 
