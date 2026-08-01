@@ -277,7 +277,7 @@ Problems encountered: I spent 3 hours trying to find how to put holes through an
 
 <img width="671" height="311" alt="Screenshot 2026-07-31 11 40 47 PM" src="https://github.com/user-attachments/assets/668d4d3b-00c2-4794-8c29-a84bda7e02ae" />
 <img width="925" height="408" alt="Screenshot 2026-07-31 11 47 32 PM" src="https://github.com/user-attachments/assets/ad2e95ec-24f8-4a1f-a13e-3d05cd3f5dc7" />
-<img width="482" height="256" alt="Screenshot 2026-08-01 12 02 46 AM" src="https://github.com/user-attachments/assets/289bb71c-ff83-4680-8917-ec78207b1bb1" />
+
 
 
 
