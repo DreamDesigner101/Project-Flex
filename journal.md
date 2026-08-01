@@ -267,6 +267,19 @@ Problems encountered: I noticed that the exit points for the inner thumb were to
 
 --------------------------------------------------
 
+Day : 24
+
+Duration: 3 hours
+
+Activities completed: To make angled holes, make sure to make two points where you would like the hole to lie through, make sure you then use the PLANE tool. Then, after you use it, make sure that you use sketch and make a line going through the two points that you wish to make a hole through. After that, use the hole tool, and select the male connector as the line.
+
+Problems encountered: I spent 3 hours trying to find how to put holes through angled objects. I came really close a lot of the times, though most of the times there was blockage or it was just not going through the 2 points.
+
+<img width="671" height="311" alt="Screenshot 2026-07-31 11 40 47 PM" src="https://github.com/user-attachments/assets/668d4d3b-00c2-4794-8c29-a84bda7e02ae" />
+<img width="925" height="408" alt="Screenshot 2026-07-31 11 47 32 PM" src="https://github.com/user-attachments/assets/ad2e95ec-24f8-4a1f-a13e-3d05cd3f5dc7" />
+<img width="482" height="256" alt="Screenshot 2026-08-01 12 02 46 AM" src="https://github.com/user-attachments/assets/289bb71c-ff83-4680-8917-ec78207b1bb1" />
+
+
 
 
 
