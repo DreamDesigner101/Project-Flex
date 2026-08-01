@@ -275,8 +275,12 @@ Activities completed: To make angled holes, make sure to make two points where y
 
 Problems encountered: I spent 3 hours trying to find how to put holes through angled objects. I came really close a lot of the times, though most of the times there was blockage or it was just not going through the 2 points.
 
-<img width="671" height="311" alt="Screenshot 2026-07-31 11 40 47 PM" src="https://github.com/user-attachments/assets/668d4d3b-00c2-4794-8c29-a84bda7e02ae" />
-<img width="925" height="408" alt="Screenshot 2026-07-31 11 47 32 PM" src="https://github.com/user-attachments/assets/ad2e95ec-24f8-4a1f-a13e-3d05cd3f5dc7" />
+<img width="482" height="256" alt="Screenshot 2026-08-01 12 09 00 AM" src="https://github.com/user-attachments/assets/9117441b-778c-420a-8ca0-d91c5296c280" />
+<img width="482" height="256" alt="Screenshot 2026-08-01 12 08 54 AM" src="https://github.com/user-attachments/assets/9d23b5e8-2bba-451a-b186-e1112398acab" />
+<img width="925" height="408" alt="Screenshot 2026-07-31 11 47 32 PM" src="https://github.com/user-attachments/assets/5c85acd3-f42b-4a11-a34e-44fcd1b1d681" />
+<img width="482" height="256" alt="Screenshot 2026-08-01 12 02 46 AM" src="https://github.com/user-attachments/assets/addaeef8-1005-4d52-af00-368041d8147c" />
+
+
 
 
 
