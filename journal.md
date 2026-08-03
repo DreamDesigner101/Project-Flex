@@ -297,3 +297,18 @@ Problems encountered: I found out how to actually put holes into an angled plane
 
 ---------------------------------------
 
+Day : 26
+
+Duration: 2 hours 20 minutes
+
+Activities completed: completed blueprint and cad forearm
+
+Problems encountered: I had problems with measurements and had to redo a lot. I also noticed that the  servo motors that I am using don't have too specific dimensions, so a lot of them are from my past experience with them. It also doesn't help that I don't have the servos yet because I'm not finished yet.
+
+<img width="100" height="252" alt="Screenshot 2026-08-02 4 05 31 PM" src="https://github.com/user-attachments/assets/b7a9dfd5-e5e4-4bb9-bc5b-cadd4840f87c" />
+<img width="261" height="359" alt="Screenshot 2026-08-02 4 09 02 PM" src="https://github.com/user-attachments/assets/400235b9-c001-49e7-aedf-e47b8808763a" />
+<img width="206" height="314" alt="Screenshot 2026-08-02 5 09 04 PM" src="https://github.com/user-attachments/assets/f7c0e0be-8130-47ed-9f25-7f1565e2e9c5" />
+
+
+
+
