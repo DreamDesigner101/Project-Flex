@@ -308,6 +308,8 @@ Problems encountered: I had problems with measurements and had to redo a lot. I 
 <img width="100" height="252" alt="Screenshot 2026-08-02 4 05 31 PM" src="https://github.com/user-attachments/assets/b7a9dfd5-e5e4-4bb9-bc5b-cadd4840f87c" />
 <img width="261" height="359" alt="Screenshot 2026-08-02 4 09 02 PM" src="https://github.com/user-attachments/assets/400235b9-c001-49e7-aedf-e47b8808763a" />
 <img width="206" height="314" alt="Screenshot 2026-08-02 5 09 04 PM" src="https://github.com/user-attachments/assets/f7c0e0be-8130-47ed-9f25-7f1565e2e9c5" />
+<img width="4160" height="3120" alt="IMG_20260802_135210681-1" src="https://github.com/user-attachments/assets/45d93e5c-c38f-4fc8-bbb2-df6d1ecc4261" />
+
 
 
 
