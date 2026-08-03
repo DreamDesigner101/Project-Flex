@@ -269,7 +269,7 @@ Problems encountered: I noticed that the exit points for the inner thumb were to
 
 Day : 24
 
-Duration: 3 hours
+Duration: 3 hours 5 minutes
 
 Activities completed: To make angled holes, make sure to make two points where you would like the hole to lie through, make sure you then use the PLANE tool. Then, after you use it, make sure that you use sketch and make a line going through the two points that you wish to make a hole through. After that, use the hole tool, and select the male connector as the line.
 
@@ -280,26 +280,20 @@ Problems encountered: I spent 3 hours trying to find how to put holes through an
 <img width="925" height="408" alt="Screenshot 2026-07-31 11 47 32 PM" src="https://github.com/user-attachments/assets/5c85acd3-f42b-4a11-a34e-44fcd1b1d681" />
 <img width="482" height="256" alt="Screenshot 2026-08-01 12 02 46 AM" src="https://github.com/user-attachments/assets/addaeef8-1005-4d52-af00-368041d8147c" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -----------------------
+
+Day : 25
+
+Duration: 3 hours
+
+Activities completed: cad thumb holes + base thumb holes + worked on forearm design
+
+Problems encountered: I found out how to actually put holes into an angled plane, which is to place mate connectors on the line of trajectory and on one face of the hole.
+
+<img width="1327" height="499" alt="Screenshot 2026-08-01 11 36 41 AM" src="https://github.com/user-attachments/assets/10216479-05d2-49c0-b471-46a43cd68f91" />
+<img width="1327" height="499" alt="Screenshot 2026-08-01 11 33 57 AM" src="https://github.com/user-attachments/assets/3f212004-360a-46cb-b84b-830ecfcebfc9" />
+<img width="1327" height="499" alt="Screenshot 2026-08-01 11 32 43 AM" src="https://github.com/user-attachments/assets/469ba8b2-c426-4b45-8c0d-b84920c5d9c0" />
+<img width="4160" height="3120" alt="IMG_20260802_120150802" src="https://github.com/user-attachments/assets/54a1c7d1-1c6d-41c6-9487-a3746c44450e" />
+
+---------------------------------------
+
