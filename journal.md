@@ -310,6 +310,42 @@ Problems encountered: I had problems with measurements and had to redo a lot. I 
 <img width="206" height="314" alt="Screenshot 2026-08-02 5 09 04 PM" src="https://github.com/user-attachments/assets/f7c0e0be-8130-47ed-9f25-7f1565e2e9c5" />
 <img width="4160" height="3120" alt="IMG_20260802_135210681-1" src="https://github.com/user-attachments/assets/45d93e5c-c38f-4fc8-bbb2-df6d1ecc4261" />
 
+----------------------------------------------------------
+Day : 27
+
+Duration: 3 hours and 40 minutes
+
+Activities completed: finished forearm cad and went shopping for materials
+
+Problems encountered: I noticed that a lot of the materials were pretty expensive, and I needed to stay under the $400 budget.
+
+<img width="710" height="377" alt="Screenshot 2026-08-03 12 39 12 PM" src="https://github.com/user-attachments/assets/3cfa4379-3011-4992-9ba8-979a8791eec5" />
+<img width="225" height="469" alt="Screenshot 2026-08-03 12 41 16 PM" src="https://github.com/user-attachments/assets/d3d9cf7d-e171-442f-985f-0310b5e9ac8d" />
+<img width="713" height="258" alt="Screenshot 2026-08-03 12 41 27 PM" src="https://github.com/user-attachments/assets/ebd32673-393e-4e11-8621-06248a265a77" />
+<img width="223" height="438" alt="Screenshot 2026-08-03 12 41 44 PM" src="https://github.com/user-attachments/assets/63c81d3e-8d00-4fb4-84ea-991bd8c0a3a4" />
+<img width="136" height="394" alt="Screenshot 2026-08-03 12 43 28 PM" src="https://github.com/user-attachments/assets/af55e86b-0390-4a34-b66c-c6ed35729816" />
+
+-------------------------------------
+Day : 28
+
+Duration: 3 hours 30 minutes
+
+Activities completed: sketched, designed a blueprint, and cad the electronics box, holding the joysticks and electronics.
+
+Problems encountered: I didn't have the joysticks yet, nor the inserts for the screws, so I had to use my past experience to estimate size and dimensions.
+
+<img width="3120" height="4160" alt="IMG_20260804_152809293" src="https://github.com/user-attachments/assets/e27baac8-86a0-4f68-b8a7-d3419b5f17e4" />
+<img width="3120" height="4160" alt="IMG_20260804_152802652" src="https://github.com/user-attachments/assets/3e4a612f-7318-47ca-bb6d-a0f40ee74fbf" />
+<img width="3120" height="4160" alt="IMG_20260804_152756412" src="https://github.com/user-attachments/assets/1eb624a4-7312-44a1-94ff-8a000a776229" />
+<img width="4160" height="3120" alt="IMG_20260804_140253308" src="https://github.com/user-attachments/assets/4be4facf-23a1-4c67-a4ca-befb5acb042b" />
+<img width="3120" height="4160" alt="IMG_20260804_114312263" src="https://github.com/user-attachments/assets/851268f4-3a60-4625-b2b5-6ec55beae57c" />
+<img width="354" height="399" alt="Screenshot 2026-08-04 3 19 48 PM" src="https://github.com/user-attachments/assets/293bde3b-65ff-45de-8a11-ecb249f835cb" />
+<img width="429" height="249" alt="Screenshot 2026-08-04 3 19 33 PM" src="https://github.com/user-attachments/assets/204ca257-948b-43bd-9ce7-67481e27380b" />
+<img width="348" height="326" alt="Screenshot 2026-08-04 2 49 18 PM" src="https://github.com/user-attachments/assets/1a2265e6-a06f-4218-b4f5-535f79f2e4eb" />
+<img width="550" height="387" alt="Screenshot 2026-08-04 2 47 56 PM" src="https://github.com/user-attachments/assets/e0b0224a-80f1-4852-b902-1637ed4e14be" />
+<img width="463" height="314" alt="Screenshot 2026-08-04 2 47 44 PM" src="https://github.com/user-attachments/assets/767e0072-e554-4ab1-b0d0-6c964fe8945c" />
+<img width="370" height="253" alt="Screenshot 2026-08-04 2 47 31 PM" src="https://github.com/user-attachments/assets/649cd7b3-ac15-461f-b0ee-8f63c0229679" />
+
 
 
 
