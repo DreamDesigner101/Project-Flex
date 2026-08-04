@@ -330,7 +330,7 @@ Day : 28
 
 Duration: 3 hours 30 minutes
 
-Activities completed: sketched, designed a blueprint, and cad the electronics box, holding the joysticks and electronics.
+Activities completed: sketched, designed a blueprint, and cad the electronics box, holding the joysticks and electronics. I also used Gemini to code it.
 
 Problems encountered: I didn't have the joysticks yet, nor the inserts for the screws, so I had to use my past experience to estimate size and dimensions.
 
@@ -346,6 +346,93 @@ Problems encountered: I didn't have the joysticks yet, nor the inserts for the s
 <img width="463" height="314" alt="Screenshot 2026-08-04 2 47 44 PM" src="https://github.com/user-attachments/assets/767e0072-e554-4ab1-b0d0-6c964fe8945c" />
 <img width="370" height="253" alt="Screenshot 2026-08-04 2 47 31 PM" src="https://github.com/user-attachments/assets/649cd7b3-ac15-461f-b0ee-8f63c0229679" />
 
+
+
+I used Gemini AI to help me code, which significantly shortens my project time:
+
+
+
+#include <Wire.h>
+#include <Adafruit_PWMServoDriver.h>
+
+Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x40);
+
+#define SERVOMIN  150 
+#define SERVOMAX  600 
+#define SERVO_FREQ 50 
+
+const int JOY1_Y_PIN = 33; 
+const int JOY2_Y_PIN = 35; 
+
+const int CENTER_MIN = 1800; 
+const int CENTER_MAX = 2300;
+
+// Targets (where the joystick wants the servo to go)
+float target0Pos = (SERVOMIN + SERVOMAX) / 2.0;
+float target1Pos = (SERVOMIN + SERVOMAX) / 2.0;
+
+// Current actual positions (smoothed movement)
+float current0Pos = target0Pos;
+float current1Pos = target1Pos;
+
+// Step size determines target movement speed
+const float STEP_SIZE = 3.0; 
+
+// Smoothing factor (0.05 = super smooth/slower acceleration, 0.2 = fast/snappy)
+// Keeping this around 0.08 to 0.12 eliminates current spikes effectively.
+const float SMOOTHING_FACTOR = 0.10; 
+
+void setup() {
+  Serial.begin(115200);
+
+  pwm.begin();
+  pwm.setOscillatorFrequency(27000000);
+  pwm.setPWMFreq(SERVO_FREQ);
+
+  pwm.setPWM(0, 0, (int)current0Pos);
+  pwm.setPWM(1, 0, (int)current1Pos);
+
+  delay(500);
+}
+
+void loop() {
+  int joy1Y = analogRead(JOY1_Y_PIN);
+  int joy2Y = analogRead(JOY2_Y_PIN);
+
+  // --- UPDATE TARGETS BASED ON JOYSTICK ---
+  if (joy1Y < CENTER_MIN) {
+    target0Pos -= STEP_SIZE;
+  } else if (joy1Y > CENTER_MAX) {
+    target0Pos += STEP_SIZE;
+  }
+
+  if (joy2Y < CENTER_MIN) {
+    target1Pos -= STEP_SIZE;
+  } else if (joy2Y > CENTER_MAX) {
+    target1Pos += STEP_SIZE;
+  }
+
+  // Constrain targets within physical limits
+  target0Pos = constrain(target0Pos, SERVOMIN, SERVOMAX);
+  target1Pos = constrain(target1Pos, SERVOMIN, SERVOMAX);
+
+  // --- APPLY SOFTWARE SMOOTHING (EASING) ---
+  // Gradually move current position toward target position
+  current0Pos += (target0Pos - current0Pos) * SMOOTHING_FACTOR;
+  current1Pos += (target1Pos - current1Pos) * SMOOTHING_FACTOR;
+
+  // Output smoothed integer values to PCA9685
+  pwm.setPWM(0, 0, (int)round(current0Pos));
+  pwm.setPWM(1, 0, (int)round(current1Pos));
+
+  delay(15); 
+}
+
+
+----------------------------
+THE END!!!!  Date of completion: August 4/2026 time: 3:40 pm
+
+Now its time for assembly!
 
 
 
