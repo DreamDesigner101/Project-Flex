@@ -434,6 +434,24 @@ THE END!!!!  Date of completion: August 4/2026 time: 3:40 pm
 
 Now its time for assembly!
 
+If you want the files, they are going to be included below(P.S. I recommend to layout the parts before printing):
+
+Controller Box: https://cad.onshape.com/documents/379b61472bcc3d97dae62a1f/w/ec2175cc66d958ba4a2c9aae/e/52909f9a682ceaeb6af2e5b1
+
+Forearm: https://cad.onshape.com/documents/8ae34fcecc4e57c2b7c5646b/w/41e36f726af2b70a62a9893a/e/e6b3d69efdee76ed14fb4a3c
+
+Base: https://cad.onshape.com/documents/478c4f213597bc680b4a5391/w/77b3136081b163cc5b66a378/e/ad67ef0e0765ada9991b512e
+
+Fingers: https://cad.onshape.com/documents/eb3bbc973d7a7edc9adcbb03/w/11795ffee5e76c5905b6bc09/e/4c9901033a64714785b21ed8
+
+
+
+
+
+
+
+
+
 
 
 
